@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1259022538739272}
+  m_IsPrefabAsset: 1
+--- !u!1 &1259022538739272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4207046784563982}
+  - component: {fileID: 114560713318150044}
+  m_Layer: 0
+  m_Name: Sapeornis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4207046784563982
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1259022538739272}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.064634, y: 5.4365416, z: 733.30005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114560713318150044
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1259022538739272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3ab5d05535fc487a955e1212a12715b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  refDinoName: Sapeornis
+  description: "Il est le plus ancien sp\xE9cimen \xE0 poss\xE9der un pygostyle (os
+    de la queue) semblable aux oiseaux modernes. Les scientifiques pensent qu'il est
+    un stade interm\xE9diaire entre Jeholornis et Confuciusornis."
+  era: "Cr\xE9tac\xE9 inf\xE9rieur (154 \xE0 100Ma)"
+  particularity: "Il poss\xE8de des dents robustes et coniques uniquement \xE0 l'avant
+    de la m\xE2choire inf\xE9rieure. Il poss\xE8de des vert\xE8bres caudales libres
+    avant son pygostyle, ce qui n'existe pas chez les oiseaux modernes."
+  weight: moins de 2kg
+  height: 30cm de long

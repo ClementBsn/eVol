@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1189499647075690}
+  m_IsPrefabAsset: 1
+--- !u!1 &1189499647075690
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4634642045782846}
+  - component: {fileID: 114182369385799396}
+  m_Layer: 0
+  m_Name: Jeholornis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4634642045782846
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1189499647075690}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.064634, y: 5.4365416, z: 733.30005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114182369385799396
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1189499647075690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3ab5d05535fc487a955e1212a12715b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  refDinoName: Jeholornis
+  description: "Ayant une structure squelettique qui rappelle celle de Confuciusornis,
+    Jeholornis \xE9tait donc plus apte au vol que Arch\xE9opt\xE9ryx. Il serait donc
+    un interm\xE9diaire entre Arch\xE9opt\xE9ryx et les oiseaux modernes."
+  era: "Cr\xE9tac\xE9 inf\xE9rieur (145 \xE0 100Ma)"
+  particularity: "Jeholornis pr\xE9sente des dents d\xE9g\xE9n\xE9r\xE9es et de larges
+    ailes robustes."
+  weight: moins de 2kg
+  height: 70cm de long

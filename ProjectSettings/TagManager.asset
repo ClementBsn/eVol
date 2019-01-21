@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mutation_button_selected
+  - mutation_button
+  - play_button
+  - level_button
+  - rules_button
+  - mutations_button
+  - back_button
+  - replay_button
+  - next_button
+  - create_dino_button
+  - name_input
+  - attributs_liste
+  - best_score
+  - dino_image
+  - normal_coin
+  - special_coin
+  - choose_level_button
+  - reset_button
+  - mutation_input_name
+  - describe_mutation
+  - describe_reference
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - item
+  - wall
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2299208357
+    locked: 0
